@@ -1,0 +1,13 @@
+venv/
+.idea/
+*.env
+*.old
+*.ipynb
+__pycache__
+migrations_backup/
+migrations_backup/
+*.dev
+
+data/
+*.log
+
