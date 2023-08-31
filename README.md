@@ -30,3 +30,8 @@ root@ba6d63/usr/src/app# python manage.py db upgrade
 ```
 
 Now use Postman collection all endpoints and workflows
+
+
+
+FE screenshot (under development)
+<img width="1432" alt="Screenshot 2023-08-31 at 8 04 03 AM" src="https://github.com/agaraman0/track-events/assets/29687692/6cb2a691-1b51-4844-925b-4cfb87ae0a38">
