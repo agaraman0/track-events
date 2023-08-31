@@ -11,3 +11,5 @@ migrations_backup/
 data/
 *.log
 
+build/
+node_modules/

@@ -1,4 +1,4 @@
-from flask import make_response, jsonify, request, Blueprint
+from flask import jsonify, request, Blueprint
 
 from db import TrackingPlan, Event, db
 

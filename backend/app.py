@@ -12,7 +12,7 @@ from constants import PATH_NOT_FOUND, SERVER_ERROR, FAILURE_RESPONSE
 app = Flask(__name__)
 CORS(app)
 
-handler = RotatingFileHandler('app.log', maxBytes=10000, backupCount=1)
+handler = RotatingFileHandler('../app.log', maxBytes=10000, backupCount=1)
 # set the log level in the handler
 handler.setLevel(logging.DEBUG)
 
